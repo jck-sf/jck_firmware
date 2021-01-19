@@ -1,2 +1,3 @@
-# The Default Planck Layout
+# planck/ez/glow:jck-sf
+#  under XZSA firmware19
 
